@@ -41,7 +41,7 @@ To perform initial service setup please follow the steps:
 1.  Post definition section (defines payment parameters to fetch
     commission sch. for)
 
-![image](img/fl_d.png)
+![image](https://reactivepay-docs.readthedocs.io/en/latest/_images/fl_d.png)
 
 ``` none
 [
@@ -80,7 +80,7 @@ To perform initial service setup please follow the steps:
 
 2.  Post basic commission schedule
 
-![image](img/fl_c.png)
+![image](https://reactivepay-docs.readthedocs.io/en/latest/_images/fl_c.png)
 
 ``` none
 {
